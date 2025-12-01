@@ -1,4 +1,4 @@
-# IEEE-PHM-2012-Prognostic-Challenge-
+# IEEE-PHM-2012-Prognostic-Challenge
 This repository contains the dataset from the PHM IEEE 2012 Data Challenge, previously hosted on the FEMTO-ST website but no longer available online. It includes vibration data from six training bearings under three operating conditions and eleven test bearings. Additional details are provided in the included PDF.
 
 
